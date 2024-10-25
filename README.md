@@ -1,3 +1,40 @@
+<p align="center">
+  <img alt="Logo NLW Journey - Rocketseat" src=".github/Logo.svg" width="250px" />
+</p>
+
+<p align="center">
+  Aplicação desenvolvida no NLW Pocket Javascript da Rocketseat na trilha Iniciante. 
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Imagem do projeto" src=".github/preview.png" width="75%">
+</p>
+
+## 🛠️ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Javascript
+- Nodejs
+
+## 🚀 Projeto
+
+Nesse projeto iremos criar um aplicativo de controle de metas, projeto usado via terminal Sistema de cadastro de metas criado com somente Javascript. Feito para fins de estudo da linguagem durante o evento NLW Pocket da RocketSeat. 
+
+### ▶️ Rodando projeto: no terminal CMD ou VSCode 
+```sh
+  cd c:/caminho/do/projeto
+  node script.js
+```
+
 ## Linguagem de programação
 
 Maneira de dar instrução ao computador.
